@@ -1,4 +1,4 @@
-# all_stats
+# Auto Statistical Test
  Python library for automated statisticals tests for beginners
 
 # Installation 
